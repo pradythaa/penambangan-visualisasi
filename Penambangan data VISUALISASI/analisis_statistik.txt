@@ -1,0 +1,53 @@
+ANALISIS STATISTIK TINDAK PIDANA DI INDONESIA (2021-2023)
+============================================================
+
+1. STATISTIK NASIONAL
+------------------------------
+Total tindak pidana 2021: 239,481
+Total tindak pidana 2022: 372,897
+Total tindak pidana 2023: 584,991
+
+Kenaikan 2021-2022: 55.7%
+Kenaikan 2022-2023: 56.9%
+Kenaikan total 2021-2023: 144.3%
+
+2. LIMA DAERAH DENGAN TINGKAT TINDAK PIDANA TERTINGGI (2023)
+------------------------------------------------------------
+METRO JAYA: 87,426 kasus
+JAWA TIMUR: 66,741 kasus
+SUMATERA UTARA: 62,278 kasus
+JAWA BARAT: 45,694 kasus
+JAWA TENGAH: 42,304 kasus
+
+3. LIMA DAERAH DENGAN PERSENTASE KENAIKAN TERTINGGI (2021-2023)
+------------------------------------------------------------
+JAWA BARAT: 509.1%
+BALI: 395.7%
+JAWA TENGAH: 374.8%
+JAWA TIMUR: 246.6%
+METRO JAYA: 200.4%
+
+4. STATISTIK PER WILAYAH (2023)
+------------------------------
+Jawa: 261,618 kasus (44.7%)
+Sumatera: 161,436 kasus (27.6%)
+Sulawesi: 76,934 kasus (13.2%)
+Bali & Nusa Tenggara: 32,158 kasus (5.5%)
+Maluku & Papua: 27,559 kasus (4.7%)
+Kalimantan: 25,286 kasus (4.3%)
+
+5. STATISTIK DESKRIPTIF
+------------------------------
+Rata-rata tindak pidana per daerah 2021: 7043.6
+Rata-rata tindak pidana per daerah 2022: 10967.6
+Rata-rata tindak pidana per daerah 2023: 17205.6
+
+Median tindak pidana per daerah 2021: 4841.5
+Median tindak pidana per daerah 2022: 5406.0
+Median tindak pidana per daerah 2023: 8247.0
+
+6. KORELASI ANTAR TAHUN
+------------------------------
+Korelasi 2021-2022: 0.8407
+Korelasi 2022-2023: 0.9385
+Korelasi 2021-2023: 0.8891
